@@ -1,0 +1,25 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Ysabeau Infant", sans-serif;
+  background: #efd9d1;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 1500px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+main {
+  width: 1000px;
+  margin: 40px;
+}
+
+aside {
+  width: 500;
+  margin: 40px;
+}
