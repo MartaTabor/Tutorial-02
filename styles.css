@@ -11,7 +11,7 @@ body {
   width: 1500px;
   margin: 0 auto;
   background: #ffffff;
-  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
 }
 
 main {
@@ -22,4 +22,34 @@ main {
 aside {
   width: 500;
   margin: 40px;
+}
+
+.details-item {
+  color: #cb9777;
+}
+
+.details {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.description {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.list {
+  line-height: 25px;
+}
+
+#headings {
+  text-shadow: 2px 2px #cb9777;
+}
+
+.list-item {
+  color: black;
+}
+
+.ingredients-list {
+  color: #cb9777;
 }
